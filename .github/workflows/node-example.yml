@@ -16,5 +16,5 @@ jobs:
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - run: cd 
-      - run: cd Documents/Mejhool_NodeJS 
+      - run: cd /Users/Salmaan/Documents/Mejhool_NodeJS/
       - run: ls
