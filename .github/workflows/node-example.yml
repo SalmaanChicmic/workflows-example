@@ -4,5 +4,7 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: self-hosted
     steps:
-      - run: node /Users/Salmaan/Documents/Mejhool_NodeJS/server.js 
+      - run: node /Users/Salmaan/Documents/workflows-example/index.js 
+
+
 
